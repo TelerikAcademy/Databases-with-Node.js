@@ -1,0 +1,19 @@
+{
+  "name": "books-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/mongoose": "^4.7.3",
+    "@types/node": "^7.0.4",
+    "@types/promise": "^7.1.30"
+  },
+  "dependencies": {
+    "mongoose": "^4.8.1"
+  }
+}
