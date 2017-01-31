@@ -1,0 +1,17 @@
+{
+    "name": "callbacks",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {},
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^7.0.4",
+        "@types/promise": "^7.1.30",
+        "@types/rx": "^4.1.1"
+    },
+    "dependencies": {
+        "rx": "^4.1.0"
+    }
+}
